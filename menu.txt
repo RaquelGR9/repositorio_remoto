@@ -1,4 +1,4 @@
 Menú de recetas:
-    - Torrilla
+    - Tortilla
     - Canelones
     - Pollo asado
